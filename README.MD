@@ -106,11 +106,13 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 ###  Portfólio Web
 <div align="center">
 
-<a https://vfazano.github.io/Portifolio-Fazano/>
+### Portfólio Web
+
+<a href="https://vfazano.github.io/Portifolio-Fazano/">
   <img src="./assets/image.png" alt="Portfolio V2" width="100%"/>
 </a>
 
-**👆 Clique na imagem para abrir o portfólio**
+**Clique na imagem para abrir o portfólio**
 
 </div>
 
