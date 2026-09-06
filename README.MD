@@ -27,11 +27,11 @@ public class VitorFazano {
 
     String role = "Full Stack Developer";
     String education = "ADS • SENAI";
-    String focus = "React | Node.js | Java";
+    String focus = "Devops| AWS |React | Node.js | Java";
 
     String[] skills = {
         "JavaScript", "Java", "Python",
-        "SQL", "HTML", "CSS"
+        "SQL", 
     };
 
     String goal = "Conquistar minha primeira oportunidade em TI 🚀";
