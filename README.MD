@@ -27,7 +27,7 @@ public class VitorFazano {
 
     String role = "Full Stack Developer";
     String education = "ADS • SENAI";
-    String focus = "Devops| AWS |React | Node.js | Java";
+    String focus = "Devops| AWS | React | Node.js | Java";
 
     String[] skills = {
         "JavaScript", "Java", "Python",
