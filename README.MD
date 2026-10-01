@@ -83,21 +83,7 @@ Atualmente meu foco é evoluir como **Desenvolvedor Full Stack**, criando soluç
 
 ---
 
-#  Atualmente estudando
 
-<div align="center">
-
-| Tecnologia | Progresso |
-|------------|----------|
-| ☕ Java | ████████████ 80% |
-| ⚛️ React | █████████ 65% |
-| 🌐 Node.js | ███████ 55% |
-| 🗄️ SQL | ████████ 60% |
-| 🐍 Python | ███████ 55% |
-
-</div>
-
----
 <div align="center">
 
 ### Portfólio Web
