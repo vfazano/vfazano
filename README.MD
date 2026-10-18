@@ -113,7 +113,6 @@ Design moderno • Responsivo • Animações suaves • Código limpo
 
 </div>
 
----
 
 
 <div align="center">
